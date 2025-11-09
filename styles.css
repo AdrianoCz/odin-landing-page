@@ -112,3 +112,19 @@ nav a{
     text-align: right;
     color: #1f2937;
 }
+.callToAction{
+    padding: 150px 15dvw;
+}
+.signUp{
+    display: flex;
+    align-items: center;
+    border-radius: 9px;
+    background-color: #3882f6;
+    padding: 50px 70px;
+    justify-content: space-between;
+    color: white;
+}
+.signUp .button{
+    border: 2px white solid;
+
+}
