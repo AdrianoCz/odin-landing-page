@@ -63,3 +63,36 @@ nav a{
 .descDiv img{
     width: 100%;
 }
+.info{
+    text-align: center;
+    padding: 40px 15dvw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+    padding-bottom: 150px;
+}
+.info div{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+}
+.info article{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    width: 170px;
+    color:#1f2937;
+}
+.info img{
+    height: 170px;
+    width: 170px;
+    border: #3882f6 solid 4px;
+    border-radius: 15px;
+}
+.info h2{
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+}
