@@ -124,7 +124,16 @@ nav a{
     justify-content: space-between;
     color: white;
 }
+.signUp p{
+    font-weight: 300;
+}
 .signUp .button{
     border: 2px white solid;
 
+}
+footer{
+    text-align: center;
+    background-color: #1f2937;
+    color: white;
+    padding: 50px 0px;
 }
